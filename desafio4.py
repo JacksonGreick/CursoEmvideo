@@ -1,0 +1,5 @@
+nome = input("digite qualquer coisa")
+print(type(nome))
+print("nome e alphanumerico" , nome.isalpha())
+print("nome e decimal" , nome.isdecimal())
+print("nome e imprimivel" , nome.isprintable())

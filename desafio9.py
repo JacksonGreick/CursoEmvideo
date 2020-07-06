@@ -1,0 +1,22 @@
+n1 = int(input("digite um numero"))
+tab1 = n1 * 1
+tab2 = n1 * 2
+tab3 = n1 *3
+tab4 = n1 * 4
+tab5 = n1 * 5
+tab6 = n1 * 6
+tab7 = n1 * 7
+tab8 = n1 * 8
+tab9 = n1 * 9
+tab10 = n1 * 10
+
+print("{} x 1 = a {}".format(n1, tab1))
+print("{} x 2 = a {}".format(n1, tab2))
+print("{} x 3 = a {}".format(n1, tab3))
+print("{} x 4 = a {}".format(n1, tab4))
+print("{} x 5 = a {}".format(n1, tab5))
+print("{} x 6 = a {}".format(n1, tab6))
+print("{} x 7 = a {}".format(n1, tab7))
+print("{} x 8 = a {}".format(n1, tab8))
+print("{} x 9 = a {}".format(n1, tab9))
+print("{} x 10 = a {}".format(n1, tab10))

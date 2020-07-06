@@ -1,0 +1,7 @@
+n1 = int(input("um valor: "))
+n2 = int(input("um outro valor:"))
+print ("a soma vale {}".format(n1+n2) , end=" ")
+print ("a multiplicação e {}".format(n1*n2))
+print("a divisao e {}".format(n1/n2))
+print("a divisao inteira e {}".format(n1//n2))
+print("a potencia e igual a {}".format(n1**n2))
